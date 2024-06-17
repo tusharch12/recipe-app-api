@@ -1,4 +1,4 @@
-version: 'compose/v1'
+version: '3.8'
 
 services:
   app:
